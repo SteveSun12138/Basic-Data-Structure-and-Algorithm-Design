@@ -1,0 +1,6005 @@
+{
+  "-1007656091": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1009509081": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -1031464514,
+    "parent": -1043662699,
+    "right": -992917061
+  },
+  "-1012821864": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1023785376": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1012821864,
+    "root": true
+  },
+  "-1031464514": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1037653634,
+    "right": -1023785376,
+    "root": true
+  },
+  "-1033971488": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1037653634": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1043621970,
+    "parent": -1031464514,
+    "right": -1033971488
+  },
+  "-1043621970": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1043662699": {
+    "balance factor": 0,
+    "height": 4,
+    "left": -1055006327,
+    "parent": -1009509081,
+    "right": -1009509081
+  },
+  "-1048627061": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1048765234": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -1050269741,
+    "right": -1048627061
+  },
+  "-104887319": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1050269741": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1051905235,
+    "right": -1048765234,
+    "root": true
+  },
+  "-1051905235": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1050269741
+  },
+  "-1055006327": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -1062324610,
+    "right": -1050269741,
+    "root": true
+  },
+  "-1060680720": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1062324610": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1071747909,
+    "right": -1060680720,
+    "root": true
+  },
+  "-1068141862": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1071747909": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1068141862,
+    "root": true
+  },
+  "-107178301": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -113115892,
+    "parent": -124750258,
+    "right": -69636362
+  },
+  "-1076563840": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -1092200890,
+    "parent": -1136869662,
+    "right": -1043662699
+  },
+  "-1078145763": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1085535861": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1090469829,
+    "parent": -1092200890,
+    "right": -1078145763
+  },
+  "-1088129749": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1090469829": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1088129749,
+    "root": true
+  },
+  "-1092200890": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -1123739945,
+    "right": -1085535861,
+    "root": true
+  },
+  "-1094157474": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1097204132
+  },
+  "-1097204132": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1098371592,
+    "parent": -1101218933,
+    "right": -1094157474
+  },
+  "-1098371592": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-109914417": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1101218933": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1118805891,
+    "right": -1097204132,
+    "root": true
+  },
+  "-111201424": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -109914417,
+    "root": true
+  },
+  "-1115277237": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1118805891": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -1101218933,
+    "right": -1115277237
+  },
+  "-1123739945": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -1134553113,
+    "right": -1101218933,
+    "root": true
+  },
+  "-113115892": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -121329533,
+    "parent": -124750258,
+    "right": -111201424
+  },
+  "-1134553113": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1135809651,
+    "parent": -1123739945
+  },
+  "-1135809651": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1136869662": {
+    "balance factor": 0,
+    "height": 6,
+    "left": -1250197676,
+    "parent": -1205208515,
+    "right": -1076563840
+  },
+  "-1138224310": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1143609280
+  },
+  "-1143609280": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1144496882,
+    "right": -1138224310,
+    "root": true
+  },
+  "-1144496882": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1157245106": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1157516219,
+    "right": -1143609280,
+    "root": true
+  },
+  "-1157516219": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1163680762": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -1193097146,
+    "right": -1157245106,
+    "root": true
+  },
+  "-1170336401": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1189425638
+  },
+  "-1189425638": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1191229744,
+    "parent": -1193097146,
+    "right": -1170336401
+  },
+  "-1191229744": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1193097146": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1199057743,
+    "parent": -1189425638,
+    "right": -1189425638
+  },
+  "-1193560745": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1199057743": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1200009906,
+    "parent": -1193097146,
+    "right": -1193560745
+  },
+  "-1200009906": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1205208515": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -1227201727,
+    "parent": -1250197676,
+    "right": -1163680762
+  },
+  "-1208429702": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1213247885": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1220004749,
+    "right": -1208429702,
+    "root": true
+  },
+  "-121329533": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -124176566,
+    "root": true
+  },
+  "-1220004749": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1213247885
+  },
+  "-1227201727": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1242746079,
+    "right": -1213247885,
+    "root": true
+  },
+  "-1234696889": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-124176566": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1242746079": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1234696889,
+    "root": true
+  },
+  "-124750258": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -139615695,
+    "right": -107178301,
+    "root": true
+  },
+  "-1250197676": {
+    "balance factor": 1,
+    "height": 5,
+    "left": -1271435967,
+    "parent": -1220004749,
+    "right": -1205208515
+  },
+  "-126194819": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1263117476": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1265096015": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1263117476,
+    "root": true
+  },
+  "-1266250609": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1266883913,
+    "parent": -1271435967,
+    "right": -1265096015
+  },
+  "-1266883913": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1271435967": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -1286088652,
+    "right": -1266250609,
+    "root": true
+  },
+  "-1274957893": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1284092626,
+    "parent": -1271435967
+  },
+  "-127748355": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -138379671,
+    "right": -126194819,
+    "root": true
+  },
+  "-1284092626": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1286088652": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1303057585,
+    "parent": -1271435967,
+    "right": -1274957893
+  },
+  "-1286902745": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1303057585": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1311310312,
+    "parent": -1286088652,
+    "right": -1286902745
+  },
+  "-1311310312": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1303057585
+  },
+  "-1319763410": {
+    "balance factor": 0,
+    "height": 9,
+    "left": -1626807189,
+    "right": -879927070,
+    "root": true
+  },
+  "-1320230852": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1320764427": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1340879459,
+    "right": -1320230852,
+    "root": true
+  },
+  "-1337835056": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1340879459": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1337835056,
+    "root": true
+  },
+  "-1349664983": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -1362865390,
+    "right": -1320764427,
+    "root": true
+  },
+  "-134983662": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1362865390": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1365406389,
+    "parent": -1349664983
+  },
+  "-1365406389": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1376926337": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -1414476556,
+    "right": -1349664983,
+    "root": true
+  },
+  "-138379671": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -134983662,
+    "root": true
+  },
+  "-139615695": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -151442739,
+    "parent": -151442739,
+    "right": -127748355
+  },
+  "-1397384515": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1400416050": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -1376926337,
+    "right": -1397384515
+  },
+  "-140486437": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1414476556": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1421275699,
+    "parent": -1376926337,
+    "right": -1400416050
+  },
+  "-1421275699": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1425009566,
+    "parent": -1414476556
+  },
+  "-1425009566": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1426346385": {
+    "balance factor": -1,
+    "height": 6,
+    "left": -1464715436,
+    "parent": -1464715436,
+    "right": -1376926337
+  },
+  "-1430307619": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1434927577
+  },
+  "-1434927577": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1441874643,
+    "right": -1430307619,
+    "root": true
+  },
+  "-1441874643": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1446842046": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -1459015863,
+    "right": -1434927577,
+    "root": true
+  },
+  "-1448328733": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1448919426": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -1459015863,
+    "right": -1448328733
+  },
+  "-145097986": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -149777667,
+    "right": -140486437,
+    "root": true
+  },
+  "-145327677": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1459015863": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1463191548,
+    "right": -1448919426,
+    "root": true
+  },
+  "-1463191548": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1459015863
+  },
+  "-1464715436": {
+    "balance factor": -1,
+    "height": 5,
+    "left": -1469902916,
+    "parent": -1426346385,
+    "right": -1446842046
+  },
+  "-1466921478": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1467221215": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1466921478,
+    "root": true
+  },
+  "-1467501376": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1468468653,
+    "right": -1467221215,
+    "root": true
+  },
+  "-1468468653": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1467501376
+  },
+  "-1469902916": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -1477143739,
+    "right": -1467501376,
+    "root": true
+  },
+  "-1470036798": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1471776340,
+    "parent": -1473272767
+  },
+  "-1471776340": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1473272767": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1473758129,
+    "right": -1470036798,
+    "root": true
+  },
+  "-1473758129": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1477143739": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -1489376943,
+    "parent": -1469902916,
+    "right": -1473272767
+  },
+  "-1484382029": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1489376943
+  },
+  "-1489376943": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1494513646,
+    "right": -1484382029,
+    "root": true
+  },
+  "-1494513646": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1489376943
+  },
+  "-1494999830": {
+    "balance factor": 1,
+    "height": 7,
+    "left": -1555294622,
+    "parent": -1319763410,
+    "right": -1426346385
+  },
+  "-149777667": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -145097986,
+    "right": -145327677
+  },
+  "-1500617343": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1494999830
+  },
+  "-1503562896": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1510103145,
+    "parent": -1515855821,
+    "right": -1500617343
+  },
+  "-1510103145": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1515138592,
+    "parent": -1515855821
+  },
+  "-151442739": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -152321577,
+    "parent": -139615695,
+    "right": -145097986
+  },
+  "-1515138592": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1515855821": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -1530533406,
+    "parent": -1555294622,
+    "right": -1503562896
+  },
+  "-1517088819": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1517384103": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1528985071,
+    "right": -1517088819,
+    "root": true
+  },
+  "-152321577": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -157078131,
+    "parent": -151442739
+  },
+  "-1528985071": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1517384103
+  },
+  "-1530533406": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -1538947962,
+    "right": -1517384103,
+    "root": true
+  },
+  "-1536653012": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1538947962": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1548059500,
+    "right": -1536653012,
+    "root": true
+  },
+  "-1543113274": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1548059500
+  },
+  "-1548059500": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1550618660,
+    "right": -1543113274,
+    "root": true
+  },
+  "-1550618660": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1548059500
+  },
+  "-1555294622": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -1592925049,
+    "parent": -1592925049,
+    "right": -1515855821
+  },
+  "-1556811188": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1568302117,
+    "parent": -1572713048
+  },
+  "-1568302117": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-157078131": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1572713048": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1591628874,
+    "right": -1556811188,
+    "root": true
+  },
+  "-1579848873": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1591628874
+  },
+  "-1591628874": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1592285975,
+    "right": -1579848873,
+    "root": true
+  },
+  "-1592285975": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1591628874
+  },
+  "-1592925049": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -1612949160,
+    "parent": -1555294622,
+    "right": -1572713048
+  },
+  "-1593310963": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-159739336": {
+    "balance factor": 0,
+    "height": 6,
+    "left": -243540946,
+    "parent": -300884259,
+    "right": -124750258
+  },
+  "-1604644238": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1609919737,
+    "parent": -1612949160,
+    "right": -1593310963
+  },
+  "-1609919737": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1612949160": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -1615590597,
+    "right": -1604644238,
+    "root": true
+  },
+  "-1613035647": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1615590597": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1618611132,
+    "parent": -1612949160,
+    "right": -1613035647
+  },
+  "-1616861600": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1618611132": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1616861600,
+    "root": true
+  },
+  "-1626807189": {
+    "balance factor": 0,
+    "height": 8,
+    "left": -1866120291,
+    "parent": -1319763410,
+    "right": -1494999830
+  },
+  "-1629402825": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1635509895,
+    "parent": -1636274037
+  },
+  "-1635509895": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1636274037": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1642282148,
+    "right": -1629402825,
+    "root": true
+  },
+  "-1638685460": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1642282148": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1648055449,
+    "right": -1638685460,
+    "root": true
+  },
+  "-1648055449": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1642282148
+  },
+  "-1648806758": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -1653115234,
+    "right": -1636274037,
+    "root": true
+  },
+  "-1652537761": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1653115234": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -1652537761,
+    "root": true
+  },
+  "-1656933727": {
+    "balance factor": 0,
+    "height": 4,
+    "left": -1665304011,
+    "parent": -1684647163,
+    "right": -1648806758
+  },
+  "-1657664892": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1661488111
+  },
+  "-1661488111": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1662172705,
+    "right": -1657664892,
+    "root": true
+  },
+  "-1661667724": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1662172705": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -1661488111,
+    "right": -1661667724
+  },
+  "-1665304011": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -1673976684,
+    "parent": -1684647163,
+    "right": -1661488111
+  },
+  "-1673976684": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1683965176,
+    "root": true
+  },
+  "-1683965176": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1684647163": {
+    "balance factor": 1,
+    "height": 5,
+    "left": -1695845389,
+    "right": -1656933727,
+    "root": true
+  },
+  "-1684703255": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1687940404": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1688364310,
+    "parent": -1695845389,
+    "right": -1684703255
+  },
+  "-1688364310": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1695845389": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -1708111157,
+    "right": -1687940404,
+    "root": true
+  },
+  "-169849654": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -171026414
+  },
+  "-1706303215": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1708111157": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1709540832,
+    "right": -1706303215,
+    "root": true
+  },
+  "-1709540832": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1710939146,
+    "parent": -1708111157
+  },
+  "-171026414": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -176917680,
+    "right": -169849654,
+    "root": true
+  },
+  "-1710939146": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1715531440": {
+    "balance factor": 0,
+    "height": 6,
+    "left": -1785733469,
+    "right": -1684647163,
+    "root": true
+  },
+  "-1717610372": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1720488401,
+    "root": true
+  },
+  "-1720488401": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1721077878": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -1738126974,
+    "parent": -1761407054,
+    "right": -1717610372
+  },
+  "-1721482002": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1724117705
+  },
+  "-1724117705": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1733624212,
+    "right": -1721482002,
+    "root": true
+  },
+  "-1733624212": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1724117705
+  },
+  "-1738126974": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1743668686,
+    "right": -1724117705,
+    "root": true
+  },
+  "-1738354142": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1743668686
+  },
+  "-1743668686": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1748655994,
+    "right": -1738354142,
+    "root": true
+  },
+  "-1748655994": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1761407054": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -1779032092,
+    "parent": -1785733469,
+    "right": -1721077878
+  },
+  "-1765964705": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1775267518
+  },
+  "-176917680": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -184840264,
+    "parent": -171026414
+  },
+  "-1775267518": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1777905397,
+    "right": -1765964705,
+    "root": true
+  },
+  "-1777905397": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1775267518
+  },
+  "-1779032092": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1781892062,
+    "right": -1775267518,
+    "root": true
+  },
+  "-1781892062": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1779032092
+  },
+  "-1785733469": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -1832201031,
+    "parent": -1761407054,
+    "right": -1761407054
+  },
+  "-1786071370": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1789492156
+  },
+  "-1789492156": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1807990920,
+    "right": -1786071370,
+    "root": true
+  },
+  "-1800267753": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1807990920
+  },
+  "-1807990920": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1816345923,
+    "right": -1800267753,
+    "root": true
+  },
+  "-1816345923": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1807990920
+  },
+  "-1832201031": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -1846298805,
+    "parent": -1785733469,
+    "right": -1789492156
+  },
+  "-1835663267": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1836585460
+  },
+  "-1836585460": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1840942229,
+    "right": -1835663267,
+    "root": true
+  },
+  "-1840942229": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1836585460
+  },
+  "-1846298805": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -1862620022,
+    "right": -1836585460,
+    "root": true
+  },
+  "-184840264": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1851288961": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1854836574
+  },
+  "-1854836574": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1861990087,
+    "right": -1851288961,
+    "root": true
+  },
+  "-1861990087": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1862620022": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1865013579,
+    "right": -1854836574,
+    "root": true
+  },
+  "-1865013579": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1865447625,
+    "parent": -1862620022
+  },
+  "-1865447625": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1866120291": {
+    "balance factor": 0,
+    "height": 7,
+    "left": -1983973657,
+    "parent": -1626807189,
+    "right": -1715531440
+  },
+  "-1877439396": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1884222505
+  },
+  "-1884222505": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1884683247,
+    "right": -1877439396,
+    "root": true
+  },
+  "-1884683247": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1884222505
+  },
+  "-1886948368": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1894634650,
+    "parent": -1915466861,
+    "right": -1884222505
+  },
+  "-1894634650": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1907306017,
+    "parent": -1915466861
+  },
+  "-190308190": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -192407064,
+    "right": -171026414,
+    "root": true
+  },
+  "-190516558": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -190308190
+  },
+  "-1907306017": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1915466861": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -1927674532,
+    "right": -1886948368,
+    "root": true
+  },
+  "-1916283857": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-192407064": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -192892896,
+    "parent": -190308190,
+    "right": -190516558
+  },
+  "-1924261793": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -1915466861,
+    "right": -1916283857
+  },
+  "-1927674532": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -1938525298,
+    "parent": -1915466861,
+    "right": -1924261793
+  },
+  "-192892896": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -192407064
+  },
+  "-1938525298": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1942610171,
+    "parent": -1944197691
+  },
+  "-1942610171": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1944197691": {
+    "balance factor": 0,
+    "height": 4,
+    "left": -1973621069,
+    "right": -1915466861,
+    "root": true
+  },
+  "-1944729607": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1948117072": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -1964897526,
+    "right": -1944729607,
+    "root": true
+  },
+  "-195316624": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -232486643,
+    "parent": -243540946,
+    "right": -190308190
+  },
+  "-1964897526": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1965784624,
+    "parent": -1948117072
+  },
+  "-1965784624": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1973621069": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -1982150586,
+    "parent": -1944197691,
+    "right": -1948117072
+  },
+  "-1982150586": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -1982392555,
+    "parent": -1973621069
+  },
+  "-1982392555": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-1983973657": {
+    "balance factor": -1,
+    "height": 6,
+    "left": -2042840640,
+    "right": -1944197691,
+    "root": true
+  },
+  "-1985125346": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1985429493
+  },
+  "-1985429493": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1986633831,
+    "right": -1985125346,
+    "root": true
+  },
+  "-1986633831": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -1985429493
+  },
+  "-1992417275": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -2002581119,
+    "right": -1985429493,
+    "root": true
+  },
+  "-2002581119": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -2016632998,
+    "parent": -1992417275
+  },
+  "-2016632998": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-2021419183": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -2023924271,
+    "parent": -2023924271,
+    "right": -1992417275
+  },
+  "-2022013059": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-2023716661": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -2022013059,
+    "root": true
+  },
+  "-2023924271": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -2037365217,
+    "parent": -2021419183,
+    "right": -2023716661
+  },
+  "-2025192559": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2034717244
+  },
+  "-2034717244": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -2035614781,
+    "right": -2025192559,
+    "root": true
+  },
+  "-2035614781": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2034717244
+  },
+  "-203677657": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -226452699
+  },
+  "-2037365217": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -2040269345,
+    "right": -2034717244,
+    "root": true
+  },
+  "-2040269345": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2037365217
+  },
+  "-2042840640": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -2093104376,
+    "parent": -1983973657,
+    "right": -2021419183
+  },
+  "-2053197790": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-2063921478": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -2065348543,
+    "parent": -2065348543,
+    "right": -2053197790
+  },
+  "-2065348543": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2063921478
+  },
+  "-2069336063": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -2075526217,
+    "parent": -2077176662,
+    "right": -2063921478
+  },
+  "-2075526217": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -2076905734,
+    "parent": -2077176662
+  },
+  "-2076905734": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-2077176662": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -2085964632,
+    "right": -2069336063,
+    "root": true
+  },
+  "-2085519522": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2077176662
+  },
+  "-2085964632": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -2087808308,
+    "parent": -2077176662,
+    "right": -2085519522
+  },
+  "-2086561972": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-2087808308": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -2088477400,
+    "parent": -2085964632,
+    "right": -2086561972
+  },
+  "-2088477400": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-2093104376": {
+    "balance factor": 0,
+    "height": 4,
+    "left": -2125601195,
+    "right": -2077176662,
+    "root": true
+  },
+  "-2093503081": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2096245417
+  },
+  "-2096245417": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -2106509718,
+    "right": -2093503081,
+    "root": true
+  },
+  "-2106509718": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2096245417
+  },
+  "-2106640044": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -2122266986,
+    "parent": -2125601195,
+    "right": -2096245417
+  },
+  "-2117348761": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-21218211": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -27458713,
+    "parent": -9100960
+  },
+  "-2122266986": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -2117348761,
+    "root": true
+  },
+  "-2125601195": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -2135482590,
+    "parent": -2106640044,
+    "right": -2106640044
+  },
+  "-2126999131": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2125601195
+  },
+  "-2135482590": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -2141852641,
+    "parent": -2125601195,
+    "right": -2126999131
+  },
+  "-2137699215": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-2141852641": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -2143059691,
+    "right": -2137699215,
+    "root": true
+  },
+  "-2143059691": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -2141852641
+  },
+  "-226452699": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -226912142,
+    "right": -203677657,
+    "root": true
+  },
+  "-226912142": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-232486643": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -239579510,
+    "parent": -243540946,
+    "right": -226452699
+  },
+  "-234201091": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-239579510": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -234201091,
+    "root": true
+  },
+  "-243540946": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -283417929,
+    "right": -195316624,
+    "root": true
+  },
+  "-246855573": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-248450231": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -249410140,
+    "right": -246855573,
+    "root": true
+  },
+  "-249410140": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -248450231
+  },
+  "-259502161": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -266581757,
+    "parent": -243540946,
+    "right": -248450231
+  },
+  "-266581757": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-269018415": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -269775911,
+    "parent": -283417929,
+    "right": -259502161
+  },
+  "-269775911": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -279254677,
+    "parent": -283417929
+  },
+  "-27458713": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-27737255": {
+    "balance factor": 0,
+    "height": 8,
+    "left": -300884259,
+    "parent": 363023822,
+    "right": 363023822
+  },
+  "-279254677": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-283417929": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -291332805,
+    "parent": -291332805,
+    "right": -269018415
+  },
+  "-288580035": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-291332805": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -293141459,
+    "parent": -283417929,
+    "right": -288580035
+  },
+  "-293141459": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -299825882,
+    "parent": -291332805
+  },
+  "-299825882": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-300884259": {
+    "balance factor": 0,
+    "height": 7,
+    "left": -405645210,
+    "right": -159739336,
+    "root": true
+  },
+  "-304919662": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-309365213": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -310797000,
+    "right": -304919662
+  },
+  "-310797000": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -312582800,
+    "parent": -325760749,
+    "right": -309365213
+  },
+  "-311679651": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -312582800
+  },
+  "-312582800": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -321249581,
+    "right": -311679651,
+    "root": true
+  },
+  "-314451881": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-321249581": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -314451881,
+    "root": true
+  },
+  "-325760749": {
+    "balance factor": -1,
+    "height": 5,
+    "left": -378155119,
+    "right": -310797000,
+    "root": true
+  },
+  "-333988293": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-333995464": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -334935281,
+    "right": -333988293
+  },
+  "-334935281": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -349248086,
+    "right": -333995464,
+    "root": true
+  },
+  "-344373624": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -349248086
+  },
+  "-349248086": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -356655124,
+    "right": -344373624,
+    "root": true
+  },
+  "-356655124": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -349248086
+  },
+  "-359446145": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -370422833,
+    "parent": -378155119,
+    "right": -334935281
+  },
+  "-365221902": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -370422833
+  },
+  "-370422833": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -374575748,
+    "parent": -378155119,
+    "right": -365221902
+  },
+  "-374575748": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -376472849,
+    "root": true
+  },
+  "-376472849": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-378155119": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -393134449,
+    "parent": -393134449,
+    "right": -359446145
+  },
+  "-378633401": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -381786921,
+    "root": true
+  },
+  "-381786921": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-393134449": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -403784604,
+    "parent": -378155119,
+    "right": -378633401
+  },
+  "-39408747": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-39698526": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -40625496,
+    "right": -39408747
+  },
+  "-403784604": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -393134449
+  },
+  "-405645210": {
+    "balance factor": 1,
+    "height": 6,
+    "left": -479714307,
+    "parent": -479714307,
+    "right": -325760749
+  },
+  "-40625496": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -48899982,
+    "parent": -39698526,
+    "right": -39698526
+  },
+  "-408190024": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -409039585
+  },
+  "-409039585": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -422158974,
+    "parent": -433557068,
+    "right": -408190024
+  },
+  "-409276952": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-422158974": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -409276952,
+    "root": true
+  },
+  "-433557068": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -467274112,
+    "parent": -449908474,
+    "right": -409039585
+  },
+  "-436297364": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-44807417": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-449908474": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -459195308,
+    "parent": -467274112,
+    "right": -436297364
+  },
+  "-459195308": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-467274112": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -472800272,
+    "right": -449908474,
+    "root": true
+  },
+  "-472800272": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -473019908,
+    "parent": -467274112
+  },
+  "-473019908": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -472800272
+  },
+  "-479714307": {
+    "balance factor": 0,
+    "height": 4,
+    "left": -521399641,
+    "parent": -405645210,
+    "right": -433557068
+  },
+  "-482601341": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -495654370,
+    "parent": -479714307
+  },
+  "-48899982": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -55847042,
+    "parent": -40625496,
+    "right": -44807417
+  },
+  "-495654370": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-498120328": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -504372037,
+    "parent": -521399641,
+    "right": -482601341
+  },
+  "-500172496": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-5029941": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-504372037": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -505779105,
+    "parent": -521399641,
+    "right": -500172496
+  },
+  "-505779105": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-521399641": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -528831439,
+    "parent": -504372037,
+    "right": -498120328
+  },
+  "-523607863": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -524971798,
+    "root": true
+  },
+  "-524971798": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-528831439": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -543079710,
+    "right": -523607863,
+    "root": true
+  },
+  "-539696645": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-543079710": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -544406938,
+    "parent": -528831439,
+    "right": -539696645
+  },
+  "-544406938": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -543079710
+  },
+  "-546123470": {
+    "balance factor": 1,
+    "height": 11,
+    "left": -1319763410,
+    "parent": -1626807189,
+    "right": 634746342
+  },
+  "-555396726": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-556761764": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -568819914,
+    "parent": -569444701,
+    "right": -555396726
+  },
+  "-55847042": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -48899982
+  },
+  "-562615503": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-568819914": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -562615503,
+    "root": true
+  },
+  "-569444701": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -571639508,
+    "parent": -595860904,
+    "right": -556761764
+  },
+  "-571497796": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -571639508
+  },
+  "-571639508": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -593064679,
+    "right": -571497796,
+    "root": true
+  },
+  "-576342650": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-593064679": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -571639508,
+    "right": -576342650
+  },
+  "-595860904": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -607000016,
+    "parent": -612234714,
+    "right": -569444701
+  },
+  "-596303047": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -604208744,
+    "parent": -607000016
+  },
+  "-604208744": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-607000016": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -607292587,
+    "right": -596303047,
+    "root": true
+  },
+  "-607292587": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-612234714": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -667910717,
+    "parent": -595860904,
+    "right": -595860904
+  },
+  "-612309804": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-617606729": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -632757511,
+    "parent": -645042426,
+    "right": -612309804
+  },
+  "-632757511": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-645042426": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -652178300,
+    "right": -617606729,
+    "root": true
+  },
+  "-647852743": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-652178300": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -652871241,
+    "parent": -645042426,
+    "right": -647852743
+  },
+  "-652871241": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -658394395,
+    "root": true
+  },
+  "-658394395": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-667910717": {
+    "balance factor": 0,
+    "height": 4,
+    "left": -703176589,
+    "parent": -612234714,
+    "right": -645042426
+  },
+  "-672862975": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-677559034": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -701362448,
+    "parent": -703176589,
+    "right": -672862975
+  },
+  "-69636362": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -80808960,
+    "parent": -80808960,
+    "right": -40625496
+  },
+  "-697330486": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-701362448": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -701831265,
+    "right": -697330486,
+    "root": true
+  },
+  "-701831265": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-703176589": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -724276739,
+    "parent": -677559034,
+    "right": -677559034
+  },
+  "-703903581": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -704612709
+  },
+  "-704612709": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -714520836,
+    "right": -703903581,
+    "root": true
+  },
+  "-714520836": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -704612709
+  },
+  "-724276739": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -727164197,
+    "right": -704612709,
+    "root": true
+  },
+  "-727164197": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -724276739
+  },
+  "-731143417": {
+    "balance factor": 0,
+    "height": 6,
+    "left": -804550923,
+    "parent": -667910717,
+    "right": -612234714
+  },
+  "-732604935": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-734012196": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -734942978,
+    "right": -732604935,
+    "root": true
+  },
+  "-734942978": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -734012196
+  },
+  "-739087984": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -746059394,
+    "right": -734012196,
+    "root": true
+  },
+  "-746059394": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -739087984
+  },
+  "-752836459": {
+    "balance factor": 1,
+    "height": 3,
+    "left": -775228008,
+    "parent": -731143417,
+    "right": -739087984
+  },
+  "-775228008": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -779915479,
+    "parent": -752836459
+  },
+  "-779915479": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-780443367": {
+    "balance factor": 1,
+    "height": 4,
+    "left": -795991891,
+    "parent": -731143417,
+    "right": -752836459
+  },
+  "-781925744": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -786025529,
+    "parent": -795991891
+  },
+  "-786025529": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-795991891": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -798194075,
+    "right": -781925744,
+    "root": true
+  },
+  "-79623541": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -80213270,
+    "root": true
+  },
+  "-797175896": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -795991891
+  },
+  "-798194075": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -802539580,
+    "parent": -795991891,
+    "right": -797175896
+  },
+  "-80213270": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-802539580": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -798194075
+  },
+  "-804550923": {
+    "balance factor": 0,
+    "height": 5,
+    "left": -827685808,
+    "parent": -731143417,
+    "right": -780443367
+  },
+  "-805618705": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -809140727
+  },
+  "-80808960": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -96879665,
+    "parent": -69636362,
+    "right": -79623541
+  },
+  "-809140727": {
+    "balance factor": -1,
+    "height": 2,
+    "left": -813717980,
+    "right": -805618705,
+    "root": true
+  },
+  "-809676176": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -813717980
+  },
+  "-813717980": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -814178563,
+    "right": -809676176,
+    "root": true
+  },
+  "-814178563": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -813717980
+  },
+  "-817979196": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -824617120,
+    "right": -809140727,
+    "root": true
+  },
+  "-818154228": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -819197310,
+    "root": true
+  },
+  "-819197310": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-82443812": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -96879665
+  },
+  "-824617120": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -826598970,
+    "right": -818154228,
+    "root": true
+  },
+  "-826598970": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-827685808": {
+    "balance factor": 0,
+    "height": 4,
+    "left": -848508494,
+    "parent": -848508494,
+    "right": -817979196
+  },
+  "-831094210": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -833955969
+  },
+  "-833955969": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -839657157,
+    "right": -831094210,
+    "root": true
+  },
+  "-839657157": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -833955969
+  },
+  "-842252905": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -842750814,
+    "right": -833955969,
+    "root": true
+  },
+  "-842750814": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -842252905
+  },
+  "-848508494": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -860286551,
+    "parent": -827685808,
+    "right": -842252905
+  },
+  "-857748145": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-859305266": {
+    "balance factor": 1,
+    "height": 1,
+    "right": -857748145,
+    "root": true
+  },
+  "-860286551": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -865976387,
+    "right": -859305266,
+    "root": true
+  },
+  "-863636855": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -865976387
+  },
+  "-865976387": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -878508595,
+    "right": -863636855,
+    "root": true
+  },
+  "-878508595": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -865976387
+  },
+  "-879927070": {
+    "balance factor": -1,
+    "height": 8,
+    "left": -986450073,
+    "parent": -804550923,
+    "right": -731143417
+  },
+  "-880295527": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -883396665
+  },
+  "-883396665": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -885723908,
+    "parent": -891407197,
+    "right": -880295527
+  },
+  "-885723908": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-891407197": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -899373048,
+    "parent": -883396665,
+    "right": -883396665
+  },
+  "-892811302": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -899373048
+  },
+  "-899373048": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -901976237,
+    "right": -892811302,
+    "root": true
+  },
+  "-901976237": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -899373048
+  },
+  "-905854795": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -918987032,
+    "right": -891407197,
+    "root": true
+  },
+  "-9100960": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -21218211,
+    "parent": 439510,
+    "right": 439510
+  },
+  "-912000293": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -915904613,
+    "parent": -918987032
+  },
+  "-915904613": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-918987032": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -936844625,
+    "right": -912000293,
+    "root": true
+  },
+  "-936844625": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-946033487": {
+    "balance factor": -1,
+    "height": 5,
+    "left": -962099867,
+    "parent": -962099867,
+    "right": -905854795
+  },
+  "-947921808": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -949266727
+  },
+  "-949266727": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -952238994,
+    "right": -947921808,
+    "root": true
+  },
+  "-952238994": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -949266727
+  },
+  "-953779730": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -957393630,
+    "right": -949266727,
+    "root": true
+  },
+  "-957393630": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -958615923,
+    "parent": -953779730
+  },
+  "-958615923": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-962099867": {
+    "balance factor": -1,
+    "height": 4,
+    "left": -976695742,
+    "parent": -946033487,
+    "right": -953779730
+  },
+  "-962234563": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -967755803,
+    "root": true
+  },
+  "-967755803": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-967891856": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -970765783,
+    "parent": -976695742,
+    "right": -962234563
+  },
+  "-96879665": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -104887319,
+    "right": -82443812,
+    "root": true
+  },
+  "-970765783": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-976695742": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -984252402,
+    "parent": -967891856,
+    "right": -967891856
+  },
+  "-980460156": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -982225744,
+    "root": true
+  },
+  "-982225744": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-984252402": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -985863708,
+    "right": -980460156,
+    "root": true
+  },
+  "-985863708": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -984252402
+  },
+  "-986450073": {
+    "balance factor": -1,
+    "height": 7,
+    "left": -1136869662,
+    "parent": -879927070,
+    "right": -946033487
+  },
+  "-987428226": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-987484476": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -992917061,
+    "right": -987428226
+  },
+  "-992917061": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -997062312,
+    "right": -987484476,
+    "root": true
+  },
+  "-995269102": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "-997062312": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -1007656091,
+    "right": -995269102,
+    "root": true
+  },
+  "1003885339": {
+    "balance factor": 1,
+    "height": 5,
+    "left": 987682272,
+    "parent": 1019498524,
+    "right": 1019498524
+  },
+  "1014832474": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1015597152": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1014832474,
+    "right": 1016067475,
+    "root": true
+  },
+  "1016067475": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1015597152,
+    "right": 1017288915
+  },
+  "1017288915": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1019498524": {
+    "balance factor": 1,
+    "height": 4,
+    "left": 1015597152,
+    "parent": 1003885339,
+    "right": 1032775541
+  },
+  "1020926649": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1031223637,
+    "root": true
+  },
+  "1031223637": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1032775541": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 1020926649,
+    "right": 1040355537,
+    "root": true
+  },
+  "1036984717": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1040355537,
+    "right": 1037950154
+  },
+  "1037950154": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1040355537": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 1036984717,
+    "right": 1053006337,
+    "root": true
+  },
+  "1053006337": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1040355537
+  },
+  "1053940137": {
+    "balance factor": -1,
+    "height": 6,
+    "left": 1003885339,
+    "right": 1082664727,
+    "root": true
+  },
+  "1057226154": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1062983462,
+    "right": 1060560058
+  },
+  "1060560058": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1062983462": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 1057226154,
+    "right": 1075648524,
+    "root": true
+  },
+  "1068585726": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1075648524
+  },
+  "1075648524": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1068585726,
+    "right": 1079989748,
+    "root": true
+  },
+  "1079989748": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1075648524,
+    "right": 1081695515
+  },
+  "1081695515": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1082664727": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 1062983462,
+    "parent": 1053940137,
+    "right": 1105228256
+  },
+  "1088860490": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1090584062
+  },
+  "1090584062": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1088860490,
+    "right": 1098056689,
+    "root": true
+  },
+  "1098056689": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1090584062,
+    "right": 1100455207
+  },
+  "1100455207": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1105228256": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1090584062,
+    "right": 1120750547,
+    "root": true
+  },
+  "1113035654": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1105228256,
+    "right": 1119864318
+  },
+  "1119864318": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1120750547": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1113035654,
+    "parent": 1105228256,
+    "right": 1124106349
+  },
+  "1122833122": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1124106349": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1122833122,
+    "parent": 1120750547
+  },
+  "1125468592": {
+    "balance factor": -1,
+    "height": 7,
+    "left": 1053940137,
+    "parent": 1187287120,
+    "right": 1187287120
+  },
+  "1136181923": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1138622169": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1136181923,
+    "right": 1141417890,
+    "root": true
+  },
+  "1141417890": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1138622169,
+    "right": 1154525154
+  },
+  "1154525154": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "115464226": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1159347250": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1138622169,
+    "right": 1165099186,
+    "root": true
+  },
+  "11625698": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 7857515,
+    "right": 18043147,
+    "root": true
+  },
+  "1163076074": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1164496675": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1163076074,
+    "root": true
+  },
+  "1165099186": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 1164496675,
+    "right": 1166282009,
+    "root": true
+  },
+  "1166282009": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1165099186
+  },
+  "1168333902": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 1159347250,
+    "parent": 1187287120,
+    "right": 1169275943
+  },
+  "1169187690": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1169275943": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1169187690,
+    "right": 1176528059,
+    "root": true
+  },
+  "1170199120": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1176528059
+  },
+  "1176528059": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1170199120,
+    "right": 1178982231,
+    "root": true
+  },
+  "1178982231": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1176528059
+  },
+  "1187287120": {
+    "balance factor": 0,
+    "height": 5,
+    "left": 1168333902,
+    "parent": 1125468592,
+    "right": 1213695598
+  },
+  "1191635659": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1191813628
+  },
+  "1191813628": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1191635659,
+    "right": 1197788048,
+    "root": true
+  },
+  "1197788048": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1198449345": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1191813628,
+    "parent": 1213695598,
+    "right": 1205241144
+  },
+  "1205241144": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1212306309,
+    "root": true
+  },
+  "120898478": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 115464226,
+    "parent": 126894473,
+    "right": 123652921
+  },
+  "1212306309": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1213695598": {
+    "balance factor": 1,
+    "height": 4,
+    "left": 1198449345,
+    "right": 1235137319,
+    "root": true
+  },
+  "1218060968": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1222793521
+  },
+  "1222793521": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1218060968,
+    "parent": 1235137319,
+    "right": 1226323225
+  },
+  "1225854430": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1226323225": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1225854430,
+    "right": 1232515593,
+    "root": true
+  },
+  "1232515593": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1235137319": {
+    "balance factor": -1,
+    "height": 3,
+    "left": 1222793521,
+    "right": 1235626224,
+    "root": true
+  },
+  "1235626224": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1235137319,
+    "right": 1236695606
+  },
+  "123652921": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1236695606": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1239293104": {
+    "balance factor": 0,
+    "height": 9,
+    "left": 970256258,
+    "parent": 634746342,
+    "right": 1649191521
+  },
+  "1257432011": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1262908875": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1257432011,
+    "parent": 1272755290,
+    "right": 1271811330
+  },
+  "1263888135": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "126894473": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 120898478,
+    "parent": 174532663,
+    "right": 152600860
+  },
+  "1271811330": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1263888135,
+    "root": true
+  },
+  "1272755290": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1262908875,
+    "parent": 1273954848,
+    "right": 1274061758
+  },
+  "1273954848": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1274061758
+  },
+  "1274061758": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1273954848,
+    "parent": 1273954848,
+    "right": 1275188989
+  },
+  "1274664940": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1275188989": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1274664940,
+    "root": true
+  },
+  "1284077969": {
+    "balance factor": 1,
+    "height": 5,
+    "left": 1272755290,
+    "parent": 1336860885,
+    "right": 1303531066
+  },
+  "1287705253": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1289017273,
+    "root": true
+  },
+  "1289017273": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1295268299": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1287705253,
+    "right": 1298690647,
+    "root": true
+  },
+  "129708460": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1297540406": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1298690647": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1297540406,
+    "root": true
+  },
+  "1303531066": {
+    "balance factor": 1,
+    "height": 4,
+    "left": 1295268299,
+    "right": 1312259689,
+    "root": true
+  },
+  "1304925782": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1312259689,
+    "right": 1306482773
+  },
+  "1306482773": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1312259689": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 1304925782,
+    "right": 1329433389,
+    "root": true
+  },
+  "1325709441": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1312259689
+  },
+  "132871640": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 129708460,
+    "root": true
+  },
+  "1329433389": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1325709441,
+    "parent": 1312259689,
+    "right": 1331728318
+  },
+  "1331728318": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1335037526,
+    "root": true
+  },
+  "1335037526": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1336860885": {
+    "balance factor": 0,
+    "height": 6,
+    "left": 1284077969,
+    "parent": 1284077969,
+    "right": 1401966786
+  },
+  "1340429618": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1344368705": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1340429618,
+    "parent": 1349249775
+  },
+  "1349249775": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 1344368705,
+    "right": 1359325245,
+    "root": true
+  },
+  "1349607563": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1351379141": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1349607563,
+    "right": 1358860670,
+    "root": true
+  },
+  "1358860670": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1359325245": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 1351379141,
+    "parent": 1349249775,
+    "right": 1359451189
+  },
+  "1359451189": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1368961611": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 1349249775,
+    "parent": 1401966786,
+    "right": 1393154486
+  },
+  "1381262445": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1393154486,
+    "right": 1385202977
+  },
+  "1385202977": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1393154486": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 1381262445,
+    "right": 1401235984,
+    "root": true
+  },
+  "1401235984": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1393154486
+  },
+  "1401966786": {
+    "balance factor": -1,
+    "height": 5,
+    "left": 1368961611,
+    "right": 1413357307,
+    "root": true
+  },
+  "1402323024": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1407325078,
+    "root": true
+  },
+  "1407325078": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1411715040": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 1402323024,
+    "parent": 1413357307,
+    "right": 1412623297
+  },
+  "1412623297": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1413357307": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1411715040,
+    "parent": 1430100011,
+    "right": 1430100011
+  },
+  "1421230634": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1429064420": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1421230634,
+    "root": true
+  },
+  "1430100011": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1429064420,
+    "parent": 1413357307,
+    "right": 1441514503
+  },
+  "1436403513": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1441514503": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1436403513,
+    "parent": 1430100011,
+    "right": 1443422858
+  },
+  "1443422858": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1444072644": {
+    "balance factor": 0,
+    "height": 7,
+    "left": 1336860885,
+    "parent": 1649191521,
+    "right": 1592198179
+  },
+  "1445069835": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1445286737,
+    "root": true
+  },
+  "1445286737": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1450612604": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1445069835,
+    "right": 1471502612,
+    "root": true
+  },
+  "1462965454": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1471502612": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1462965454,
+    "parent": 1450612604
+  },
+  "1476042735": {
+    "balance factor": 1,
+    "height": 4,
+    "left": 1450612604,
+    "right": 1495275347,
+    "root": true
+  },
+  "1477340927": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1477914625
+  },
+  "1477914625": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1477340927,
+    "right": 1483836950,
+    "root": true
+  },
+  "1483836950": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1495275347": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 1477914625,
+    "parent": 1476042735,
+    "right": 1504022580
+  },
+  "1495657712": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1498694741
+  },
+  "1498694741": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1495657712,
+    "parent": 1504022580
+  },
+  "1504022580": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1498694741,
+    "parent": 1511256671,
+    "right": 1511256671
+  },
+  "1505621742": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1511256671": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1505621742,
+    "parent": 1504022580,
+    "right": 1512540799
+  },
+  "1512540799": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1514020592": {
+    "balance factor": 0,
+    "height": 5,
+    "left": 1476042735,
+    "parent": 1592198179,
+    "right": 1559587315
+  },
+  "1520552479": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1520942666": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1520552479,
+    "right": 1522597334,
+    "root": true
+  },
+  "1522597334": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1520942666
+  },
+  "152600860": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 132871640,
+    "right": 163823321,
+    "root": true
+  },
+  "1532536878": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 1520942666,
+    "right": 1547670170,
+    "root": true
+  },
+  "1533203053": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1537564345
+  },
+  "1537564345": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1533203053,
+    "right": 1545663420,
+    "root": true
+  },
+  "1545663420": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1547670170": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1537564345,
+    "parent": 1532536878,
+    "right": 1553403505
+  },
+  "1551150903": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1553403505
+  },
+  "1553403505": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1551150903,
+    "right": 1558051902,
+    "root": true
+  },
+  "1558051902": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1553403505
+  },
+  "1559587315": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 1532536878,
+    "parent": 1592198179,
+    "right": 1572550435
+  },
+  "1565537211": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1567331917
+  },
+  "1567331917": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1565537211,
+    "parent": 1572550435,
+    "right": 1567787647
+  },
+  "1567787647": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1572550435": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1567331917,
+    "right": 1584213992,
+    "root": true
+  },
+  "1583305350": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1584213992": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1583305350,
+    "parent": 1572550435
+  },
+  "1592198179": {
+    "balance factor": -1,
+    "height": 6,
+    "left": 1514020592,
+    "right": 1609727714,
+    "root": true
+  },
+  "1595048680": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1595560227
+  },
+  "1595560227": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1595048680,
+    "right": 1596815915,
+    "root": true
+  },
+  "1596294996": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1596815915
+  },
+  "1596815915": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1596294996,
+    "right": 1602547189,
+    "root": true
+  },
+  "1602547189": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1596815915
+  },
+  "1604593985": {
+    "balance factor": -1,
+    "height": 3,
+    "left": 1595560227,
+    "parent": 1609727714,
+    "right": 1605161060
+  },
+  "1604793468": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1605161060
+  },
+  "1605161060": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1604793468,
+    "right": 1605640448,
+    "root": true
+  },
+  "1605640448": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1605161060
+  },
+  "1609727714": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 1604593985,
+    "right": 1618973362,
+    "root": true
+  },
+  "1610889130": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1612550748": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1610889130,
+    "parent": 1609727714,
+    "right": 1615128474
+  },
+  "1615128474": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 1612550748,
+    "right": 1616129335
+  },
+  "1616129335": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1618973362": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1612550748,
+    "parent": 1609727714,
+    "right": 1633918902
+  },
+  "1623982495": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1628820825
+  },
+  "1628820825": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1623982495,
+    "right": 1630554028,
+    "root": true
+  },
+  "1630554028": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1633918902": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1628820825,
+    "parent": 1618973362,
+    "right": 1639005344
+  },
+  "1635854921": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "163823321": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1639005344": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1635854921,
+    "parent": 1633918902,
+    "right": 1648285439
+  },
+  "1648285439": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1649191521": {
+    "balance factor": 0,
+    "height": 8,
+    "left": 1444072644,
+    "right": 1927101281,
+    "root": true
+  },
+  "1654574478": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1656980085
+  },
+  "1656980085": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1654574478,
+    "right": 1661080644,
+    "root": true
+  },
+  "1657273416": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1661080644": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1657273416,
+    "parent": 1656980085
+  },
+  "1662757670": {
+    "balance factor": -1,
+    "height": 3,
+    "left": 1656980085,
+    "parent": 1681700501,
+    "right": 1668624932
+  },
+  "1665238076": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1668624932": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1665238076,
+    "right": 1672477563,
+    "root": true
+  },
+  "1672477563": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1681700501": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 1662757670,
+    "parent": 1688460815,
+    "right": 1688460815
+  },
+  "1684131100": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1685850842": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1684131100,
+    "root": true
+  },
+  "1688460815": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1685850842,
+    "parent": 1681700501,
+    "right": 1689125907
+  },
+  "1688754324": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1689125907": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1688754324,
+    "parent": 1688460815,
+    "right": 1699497970
+  },
+  "1699497970": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1709863371": {
+    "balance factor": -1,
+    "height": 5,
+    "left": 1681700501,
+    "parent": 1681700501,
+    "right": 1736087294
+  },
+  "1713368322": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1724708059": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1713368322,
+    "parent": 1736087294,
+    "right": 1726185637
+  },
+  "1726185637": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1730487287,
+    "root": true
+  },
+  "1730487287": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1736087294": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1724708059,
+    "parent": 1748041883,
+    "right": 1748041883
+  },
+  "1741825885": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "174532663": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 126894473,
+    "parent": 126894473,
+    "right": 177932753
+  },
+  "1745563466": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1741825885,
+    "root": true
+  },
+  "1748041883": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1745563466,
+    "parent": 1736087294,
+    "right": 1758144373
+  },
+  "175312792": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 174532663,
+    "right": 177738288
+  },
+  "1753572090": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1758144373": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1753572090,
+    "parent": 1748041883
+  },
+  "1760032493": {
+    "balance factor": 0,
+    "height": 6,
+    "left": 1709863371,
+    "parent": 1767579960,
+    "right": 1826079883
+  },
+  "1763975294": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1766803749,
+    "root": true
+  },
+  "1766803749": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1767579960": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1763975294,
+    "parent": 1799555056,
+    "right": 1788649780
+  },
+  "177738288": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1779279766": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "177932753": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 175312792,
+    "parent": 174532663,
+    "right": 194719350
+  },
+  "1788649780": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1779279766,
+    "parent": 1799555056,
+    "right": 1796159670
+  },
+  "1796159670": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1799555056": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1767579960,
+    "right": 1819552298,
+    "root": true
+  },
+  "1800690386": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1818300185,
+    "root": true
+  },
+  "18043147": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1818300185": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1819552298": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1800690386,
+    "parent": 1799555056,
+    "right": 1823190759
+  },
+  "1821013828": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1823190759
+  },
+  "1823190759": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1821013828,
+    "right": 1825468499,
+    "root": true
+  },
+  "1825468499": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1826079883": {
+    "balance factor": 1,
+    "height": 5,
+    "left": 1799555056,
+    "parent": 1760032493,
+    "right": 1878902785
+  },
+  "1827695302": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1840704500
+  },
+  "1840704500": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1827695302,
+    "right": 1841590827,
+    "root": true
+  },
+  "1841590827": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 1844967096,
+    "root": true
+  },
+  "1844967096": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1845610827": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1840704500,
+    "parent": 1878902785,
+    "right": 1858406217
+  },
+  "1846914158": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1858406217": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1846914158,
+    "right": 1871327171,
+    "root": true
+  },
+  "1870082699": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1871327171": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1870082699,
+    "parent": 1858406217,
+    "right": 1872680846
+  },
+  "1872680846": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1878902785": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 1845610827,
+    "parent": 1911589273,
+    "right": 1911589273
+  },
+  "1881757554": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1890867560": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1881757554,
+    "root": true
+  },
+  "1911589273": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1890867560,
+    "parent": 1878902785,
+    "right": 1918988817
+  },
+  "1912097183": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1918988817": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1912097183,
+    "parent": 1911589273,
+    "right": 1919807522
+  },
+  "1919807522": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1927101281": {
+    "balance factor": 0,
+    "height": 7,
+    "left": 1760032493,
+    "parent": 1649191521,
+    "right": 2008752290
+  },
+  "1932167193": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1933090858
+  },
+  "1933090858": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1932167193,
+    "right": 1933733607,
+    "root": true
+  },
+  "1933130106": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1933733607": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1933130106,
+    "parent": 1933090858
+  },
+  "193523564": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1937784599": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1933090858,
+    "parent": 1933733607,
+    "right": 1943346811
+  },
+  "1940585649": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1941130044": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1940585649,
+    "root": true
+  },
+  "1943346811": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 1941130044,
+    "parent": 1937784599,
+    "right": 1946434095
+  },
+  "1946434095": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1943346811
+  },
+  "194719350": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 193523564,
+    "parent": 198546484
+  },
+  "1947463270": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 1937784599,
+    "parent": 1967118619,
+    "right": 1963698657
+  },
+  "1953906943": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1961314768": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1953906943,
+    "root": true
+  },
+  "1963698657": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 1961314768,
+    "right": 1966469651,
+    "root": true
+  },
+  "1966469651": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1963698657
+  },
+  "1967118619": {
+    "balance factor": -1,
+    "height": 5,
+    "left": 1947463270,
+    "parent": 1947463270,
+    "right": 1981157556
+  },
+  "1970250974": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1972182302": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1970250974,
+    "root": true
+  },
+  "1973254853": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 1972182302,
+    "parent": 1981157556,
+    "right": 1979628293
+  },
+  "1978173352": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1979628293": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 1978173352,
+    "parent": 1981157556
+  },
+  "1981157556": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 1973254853,
+    "right": 1985721453,
+    "root": true
+  },
+  "1985071828": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1981157556
+  },
+  "198546484": {
+    "balance factor": 0,
+    "height": 6,
+    "left": 98655127,
+    "right": 275647221,
+    "root": true
+  },
+  "1985721453": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 1985071828,
+    "parent": 1981157556,
+    "right": 1995518041
+  },
+  "1987436910": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "1995518041": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 1987436910,
+    "right": 1998320263,
+    "root": true
+  },
+  "1998320263": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1995518041
+  },
+  "2008752290": {
+    "balance factor": 0,
+    "height": 6,
+    "left": 1967118619,
+    "parent": 1973254853,
+    "right": 2093633738
+  },
+  "2010613439": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 2016408492
+  },
+  "2016408492": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 2010613439,
+    "right": 2022607287,
+    "root": true
+  },
+  "2022607287": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "2025480188": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 2016408492,
+    "right": 2043191239,
+    "root": true
+  },
+  "2043191239": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 2025480188
+  },
+  "2047008869": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 2025480188,
+    "right": 2056516025,
+    "root": true
+  },
+  "2049746653": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 2056516025,
+    "right": 2054775795
+  },
+  "2054775795": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "2056516025": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 2049746653,
+    "right": 2060303941,
+    "root": true
+  },
+  "205836090": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 209617586
+  },
+  "2060303941": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 2056516025
+  },
+  "2064108522": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 2047008869,
+    "right": 2069862307,
+    "root": true
+  },
+  "2064862733": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 2065665810,
+    "root": true
+  },
+  "2065665810": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "2069862307": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 2064862733,
+    "right": 2085438811,
+    "root": true
+  },
+  "2085438811": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 2069862307
+  },
+  "2093633738": {
+    "balance factor": 0,
+    "height": 5,
+    "left": 2064108522,
+    "parent": 2008752290,
+    "right": 2119186515
+  },
+  "2095410837": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "209617586": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 205836090,
+    "parent": 216121654,
+    "right": 214811842
+  },
+  "2105195823": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 2095410837,
+    "parent": 2109479933
+  },
+  "2109479933": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 2105195823,
+    "right": 2118155034,
+    "root": true
+  },
+  "2118155034": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 2109479933
+  },
+  "2119186515": {
+    "balance factor": 1,
+    "height": 4,
+    "left": 2109479933,
+    "right": 2136991323,
+    "root": true
+  },
+  "2121816126": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "2135969168": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 2121816126,
+    "parent": 2136991323
+  },
+  "2136991323": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 2135969168,
+    "parent": 2135969168,
+    "right": 2145011016
+  },
+  "2137464104": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "2140953300": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 2137464104,
+    "root": true
+  },
+  "2145011016": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 2140953300,
+    "parent": 2136991323,
+    "right": 2146593884
+  },
+  "2146593884": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 2145011016
+  },
+  "214811842": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "216121654": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 209617586,
+    "parent": 235974839,
+    "right": 235974839
+  },
+  "21745827": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 7292002,
+    "parent": 72603015,
+    "right": 72603015
+  },
+  "219990075": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "235974839": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 219990075,
+    "parent": 216121654,
+    "right": 235976344
+  },
+  "235976344": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "240115776": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 216121654,
+    "parent": 198546484,
+    "right": 257079790
+  },
+  "24395497": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 46601164
+  },
+  "250785827": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "256646336": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 250785827,
+    "root": true
+  },
+  "257079790": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 256646336,
+    "right": 265362449,
+    "root": true
+  },
+  "265362449": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 257079790
+  },
+  "2727803": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "275647221": {
+    "balance factor": 1,
+    "height": 5,
+    "left": 240115776,
+    "parent": 198546484,
+    "right": 331481827
+  },
+  "279648932": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 287234368
+  },
+  "287234368": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 279648932,
+    "right": 287349009,
+    "root": true
+  },
+  "287349009": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 287234368
+  },
+  "288644704": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 287234368,
+    "right": 289793259,
+    "root": true
+  },
+  "289793259": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 288644704
+  },
+  "297094725": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 288644704,
+    "right": 318643450,
+    "root": true
+  },
+  "302656756": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "313119144": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 302656756,
+    "right": 317852730,
+    "root": true
+  },
+  "317852730": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "318643450": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 313119144,
+    "right": 325341989,
+    "root": true
+  },
+  "325341989": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 331059915,
+    "root": true
+  },
+  "331059915": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "331481827": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 297094725,
+    "parent": 351447323,
+    "right": 351447323
+  },
+  "338227091": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 351447323,
+    "right": 347331353
+  },
+  "347331353": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "351447323": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 338227091,
+    "parent": 331481827,
+    "right": 358988085
+  },
+  "358583717": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "358988085": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 358583717,
+    "parent": 351447323,
+    "right": 359106196
+  },
+  "359106196": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "363023822": {
+    "balance factor": 0,
+    "height": 7,
+    "left": 198546484,
+    "parent": -27737255,
+    "right": 525310756
+  },
+  "369385628": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "374898068": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 369385628,
+    "parent": 379351145,
+    "right": 375601624
+  },
+  "375601624": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "379351145": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 374898068,
+    "parent": 401703179,
+    "right": 395224745
+  },
+  "385862256": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 391736855
+  },
+  "391736855": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 385862256,
+    "right": 392654739,
+    "root": true
+  },
+  "392654739": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 391736855
+  },
+  "395224745": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 391736855,
+    "parent": 401703179,
+    "right": 401560491
+  },
+  "401560491": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "401703179": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 379351145,
+    "parent": 441725602,
+    "right": 433138404
+  },
+  "403955866": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "406924464": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 403955866,
+    "root": true
+  },
+  "416190858": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 406924464,
+    "right": 428005017,
+    "root": true
+  },
+  "428005017": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 430768503,
+    "root": true
+  },
+  "430768503": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "433138404": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 416190858,
+    "right": 435458943,
+    "root": true
+  },
+  "433280236": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "435458943": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 433280236,
+    "parent": 433138404,
+    "right": 437058216
+  },
+  "437058216": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 437739904,
+    "root": true
+  },
+  "437739904": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "439510": {
+    "balance factor": 0,
+    "height": 1,
+    "left": -5029941,
+    "parent": -9100960,
+    "right": 2727803
+  },
+  "441725602": {
+    "balance factor": 0,
+    "height": 5,
+    "left": 401703179,
+    "parent": 401703179,
+    "right": 478227353
+  },
+  "446880672": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 448694732
+  },
+  "448694732": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 446880672,
+    "parent": 462233997,
+    "right": 456429470
+  },
+  "456429470": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "462233997": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 448694732,
+    "right": 471008089,
+    "root": true
+  },
+  "465627884": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "46601164": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 24395497,
+    "right": 53663076,
+    "root": true
+  },
+  "466617683": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 465627884,
+    "parent": 471008089
+  },
+  "471008089": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 466617683,
+    "right": 471224219,
+    "root": true
+  },
+  "471224219": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 471008089
+  },
+  "478227353": {
+    "balance factor": -1,
+    "height": 4,
+    "left": 462233997,
+    "right": 495258939,
+    "root": true
+  },
+  "486151735": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "487633333": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 486151735,
+    "parent": 495258939,
+    "right": 488828000
+  },
+  "488828000": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "495258939": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 487633333,
+    "parent": 487633333,
+    "right": 501063874
+  },
+  "497719105": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 501063874
+  },
+  "501063874": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 497719105,
+    "right": 508190633,
+    "root": true
+  },
+  "508190633": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 501063874
+  },
+  "525310756": {
+    "balance factor": -1,
+    "height": 6,
+    "left": 441725602,
+    "parent": 562034918,
+    "right": 572607703
+  },
+  "526884939": {
+    "balance factor": 1,
+    "height": 1,
+    "right": 528387115,
+    "root": true
+  },
+  "528387115": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "532958490": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 526884939,
+    "right": 546017235,
+    "root": true
+  },
+  "53663076": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 46601164
+  },
+  "544636171": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "546017235": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 544636171,
+    "root": true
+  },
+  "55733776": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 46601164,
+    "right": 60961923,
+    "root": true
+  },
+  "562034918": {
+    "balance factor": -1,
+    "height": 3,
+    "left": 532958490,
+    "parent": 572607703,
+    "right": 568500744
+  },
+  "562915169": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 568500744
+  },
+  "568500744": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 562915169,
+    "right": 570053286,
+    "root": true
+  },
+  "570053286": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 568500744
+  },
+  "572607703": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 562034918,
+    "right": 587855584,
+    "root": true
+  },
+  "578251880": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 578694885
+  },
+  "578694885": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 578251880,
+    "right": 581501288,
+    "root": true
+  },
+  "579384112": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "581501288": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 579384112,
+    "parent": 578694885,
+    "right": 587707305
+  },
+  "58237264": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 60961923
+  },
+  "587707305": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "587855584": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 578694885,
+    "parent": 572607703,
+    "right": 620388891
+  },
+  "591662130": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "60961923": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 58237264,
+    "right": 63582886,
+    "root": true
+  },
+  "620388891": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 591662130,
+    "right": 626735997,
+    "root": true
+  },
+  "624464608": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 626735997
+  },
+  "626735997": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 624464608,
+    "right": 632440937,
+    "root": true
+  },
+  "632440937": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 626735997
+  },
+  "634746342": {
+    "balance factor": 1,
+    "height": 10,
+    "left": -27737255,
+    "parent": 363023822,
+    "right": 1239293104
+  },
+  "63582886": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "639934129": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "651978289": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 639934129,
+    "parent": 655007587
+  },
+  "655007587": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 651978289,
+    "right": 658964643,
+    "root": true
+  },
+  "655299517": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "658964643": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 655299517,
+    "right": 663369615,
+    "root": true
+  },
+  "662156841": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "663369615": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 662156841,
+    "root": true
+  },
+  "667006486": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 655007587,
+    "parent": 683016897,
+    "right": 684891291
+  },
+  "674594922": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 678554163,
+    "right": 677465013
+  },
+  "677465013": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "678554163": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 674594922,
+    "right": 683016897,
+    "root": true
+  },
+  "678625028": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 678554163
+  },
+  "683016897": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 678625028,
+    "parent": 678554163,
+    "right": 683194308
+  },
+  "683194308": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 683016897
+  },
+  "684891291": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 678554163,
+    "parent": 667006486,
+    "right": 702754381
+  },
+  "689375586": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 684891291
+  },
+  "691977537": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 689375586,
+    "parent": 702754381,
+    "right": 701491779
+  },
+  "701491779": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 702754381
+  },
+  "702754381": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 691977537,
+    "right": 706585897,
+    "root": true
+  },
+  "706431579": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 706585897
+  },
+  "706585897": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 706431579,
+    "right": 712127150,
+    "root": true
+  },
+  "712127150": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "713585993": {
+    "balance factor": 0,
+    "height": 5,
+    "left": 667006486,
+    "right": 759322162,
+    "root": true
+  },
+  "716962043": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "721357867": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 716962043,
+    "parent": 724356756
+  },
+  "724356756": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 721357867,
+    "parent": 759322162,
+    "right": 752005567
+  },
+  "72603015": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 55733776,
+    "parent": 21745827,
+    "right": 80677092
+  },
+  "7292002": {
+    "balance factor": -1,
+    "height": 3,
+    "left": -9100960,
+    "right": 11625698,
+    "root": true
+  },
+  "730016248": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "732355323": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 730016248,
+    "parent": 752005567,
+    "right": 748540644
+  },
+  "748540644": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 752005567
+  },
+  "752005567": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 732355323,
+    "right": 756122665,
+    "root": true
+  },
+  "755326133": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "756122665": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 755326133,
+    "root": true
+  },
+  "759322162": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 724356756,
+    "parent": 724356756,
+    "right": 802014106
+  },
+  "761904096": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 763402259
+  },
+  "763402259": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 761904096,
+    "right": 767346969,
+    "root": true
+  },
+  "767346969": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 763402259
+  },
+  "77264341": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 80677092,
+    "right": 80226933
+  },
+  "773021330": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 763402259,
+    "parent": 802014106,
+    "right": 788742061
+  },
+  "781140075": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 788742061
+  },
+  "7857515": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 11625698
+  },
+  "788742061": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 781140075,
+    "right": 801801743,
+    "root": true
+  },
+  "801801743": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 788742061
+  },
+  "802014106": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 773021330,
+    "right": 809810760,
+    "root": true
+  },
+  "80226933": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "80677092": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 77264341,
+    "right": 86368982,
+    "root": true
+  },
+  "807731447": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "808443500": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 807731447,
+    "root": true
+  },
+  "809810760": {
+    "balance factor": -1,
+    "height": 2,
+    "left": 808443500,
+    "right": 810299968,
+    "root": true
+  },
+  "810299968": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 809810760
+  },
+  "813141190": {
+    "balance factor": 0,
+    "height": 6,
+    "left": 713585993,
+    "parent": 970256258,
+    "right": 880481265
+  },
+  "828626774": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 837834194
+  },
+  "83310446": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "837834194": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 828626774,
+    "parent": 840444688,
+    "right": 840309110
+  },
+  "840309110": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "840444688": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 837834194,
+    "right": 849575120,
+    "root": true
+  },
+  "841012215": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "849575120": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 841012215,
+    "root": true
+  },
+  "855061092": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 840444688,
+    "parent": 880481265,
+    "right": 871742428
+  },
+  "863122435": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": 871742428,
+    "right": 864585080
+  },
+  "86368982": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 83310446,
+    "parent": 80677092
+  },
+  "864585080": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "871742428": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 863122435,
+    "right": 875345768,
+    "root": true
+  },
+  "872776128": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 875345768
+  },
+  "875345768": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 872776128,
+    "right": 875931082,
+    "root": true
+  },
+  "875931082": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "880481265": {
+    "balance factor": 1,
+    "height": 5,
+    "left": 855061092,
+    "right": 924535904,
+    "root": true
+  },
+  "881472190": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "882070384": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 881472190,
+    "parent": 884319303,
+    "right": 883750046
+  },
+  "883750046": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "884319303": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 882070384,
+    "parent": 882070384,
+    "right": 890380207
+  },
+  "888439900": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 890380207
+  },
+  "890380207": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 888439900,
+    "right": 904561801,
+    "root": true
+  },
+  "904561801": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "905856351": {
+    "balance factor": 0,
+    "height": 3,
+    "left": 884319303,
+    "parent": 924535904,
+    "right": 917413498
+  },
+  "915718772": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 917413498
+  },
+  "917413498": {
+    "balance factor": 1,
+    "height": 2,
+    "left": 915718772,
+    "right": 919029693,
+    "root": true
+  },
+  "917853671": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "919029693": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 917853671,
+    "right": 919566511,
+    "root": true
+  },
+  "919566511": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 919029693
+  },
+  "924535904": {
+    "balance factor": 0,
+    "height": 4,
+    "left": 905856351,
+    "right": 935475384,
+    "root": true
+  },
+  "924990384": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 927194751
+  },
+  "927194751": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 924990384,
+    "right": 934733800,
+    "root": true
+  },
+  "934733800": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "935475384": {
+    "balance factor": 1,
+    "height": 3,
+    "left": 927194751,
+    "parent": 924535904,
+    "right": 951384768
+  },
+  "940273178": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 949730468
+  },
+  "949730468": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 940273178,
+    "parent": 951384768,
+    "right": 949780772
+  },
+  "949780772": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "951384768": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 949730468,
+    "right": 958785108,
+    "root": true
+  },
+  "958180239": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "958785108": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 958180239,
+    "parent": 951384768,
+    "right": 969959667
+  },
+  "969959667": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 958785108
+  },
+  "970256258": {
+    "balance factor": 1,
+    "height": 8,
+    "left": 813141190,
+    "right": 1125468592,
+    "root": true
+  },
+  "972628978": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "977471374": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 972628978,
+    "root": true
+  },
+  "978070141": {
+    "balance factor": 0,
+    "height": 2,
+    "left": 977471374,
+    "parent": 987682272,
+    "right": 980315547
+  },
+  "978202400": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "980315547": {
+    "balance factor": 0,
+    "height": 1,
+    "left": 978202400,
+    "right": 982656384,
+    "root": true
+  },
+  "982656384": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 980315547
+  },
+  "98655127": {
+    "balance factor": 0,
+    "height": 5,
+    "left": 21745827,
+    "parent": 198546484,
+    "right": 174532663
+  },
+  "987682272": {
+    "balance factor": -1,
+    "height": 3,
+    "left": 978070141,
+    "parent": 1003885339,
+    "right": 994470939
+  },
+  "988728363": {
+    "balance factor": 0,
+    "height": 0,
+    "root": true
+  },
+  "994470939": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 988728363,
+    "root": true
+  },
+  "height": 11,
+  "root": -546123470,
+  "size": 1000
+}
+
